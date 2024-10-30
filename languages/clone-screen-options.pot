@@ -1,0 +1,97 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Clone Screen Options\n"
+"POT-Creation-Date: 2017-05-04 16:07+0200\n"
+"PO-Revision-Date: 2017-05-04 16:07+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: clone-screen-options.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: clone-screen-options.php:175
+#, php-format
+msgid ""
+"Done! Applied screen options from user \"%s\" as default options for role "
+"\"%s\""
+msgstr ""
+
+#: clone-screen-options.php:192
+msgid "Clone screen options from user"
+msgstr ""
+
+#: clone-screen-options.php:199
+msgid "to user"
+msgstr ""
+
+#: clone-screen-options.php:206
+msgid "to all users with role"
+msgstr ""
+
+#: clone-screen-options.php:212
+msgid "Clone options"
+msgstr ""
+
+#: clone-screen-options.php:221
+msgid "Apply screen options from user"
+msgstr ""
+
+#: clone-screen-options.php:225
+msgid "as default options for role"
+msgstr ""
+
+#: clone-screen-options.php:230
+msgid "Set options"
+msgstr ""
+
+#: clone-screen-options.php:245
+msgid "You must choose type of destination"
+msgstr ""
+
+#: clone-screen-options.php:249 clone-screen-options.php:256
+msgid "Do you really want to do this?"
+msgstr ""
+
+#: clone-screen-options.php:270
+#, php-format
+msgid "Done! Cloned screen options from user \"%s\" to "
+msgstr ""
+
+#: clone-screen-options.php:272
+#, php-format
+msgid "user \"%s\"."
+msgstr ""
+
+#: clone-screen-options.php:274
+#, php-format
+msgid "all users with role \"%s\"."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Clone Screen Options"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin will let you clone screen options from one user to another user "
+"or user role."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kodeo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://kodeo.io"
+msgstr ""
